@@ -1,6 +1,6 @@
 {
   "name": "simple-pagination",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Just provides only a simple pagination logic",
   "main": "index.js",
   "scripts": {
