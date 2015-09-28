@@ -1,3 +1,10 @@
+/*
+ * Returns pagination result
+ *
+ * @param {number} totalCount    - Number of items that will be paginated
+ * @param {number} perPage       - Number of items per page
+ * @param {number} specifiedPage - Page number you wanted to get, it is started by 1
+ */
 module.exports = function paginate(totalCount, perPage, specifiedPage) {
 
   var pageCount = Math.ceil(totalCount / perPage);
