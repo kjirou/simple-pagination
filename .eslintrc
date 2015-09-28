@@ -1,0 +1,7 @@
+{
+  "extends": ["eslint:recommended"],
+  "globals": {
+    "module": true
+  },
+  "rules": {}
+}

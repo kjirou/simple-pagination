@@ -1,0 +1,30 @@
+{
+  "name": "simple-pagination",
+  "version": "0.0.0",
+  "description": "Just provides only a simple pagination logic",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint index.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjirou/simple-pagination.git"
+  },
+  "keywords": [
+    "pagination",
+    "paginate",
+    "paginator",
+    "pager"
+  ],
+  "author": "kjirou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kjirou/simple-pagination/issues"
+  },
+  "homepage": "https://github.com/kjirou/simple-pagination#readme",
+  "devDependencies": {
+    "eslint": "1.5.1",
+    "mocha": "2.3.3"
+  }
+}
